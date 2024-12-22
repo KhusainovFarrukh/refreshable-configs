@@ -1,0 +1,9 @@
+server:
+  port: 5050
+
+spring:
+  application:
+    name: refreshable-service
+
+messages:
+  welcome: Hello, World!
