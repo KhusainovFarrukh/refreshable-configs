@@ -6,4 +6,4 @@ spring:
     name: refreshable-service
 
 messages:
-  welcome: Hello, World!
+  welcome: Hello, World 1!
