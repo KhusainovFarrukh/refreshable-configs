@@ -11,7 +11,7 @@ messages:
 conditional:
   controller:
     enabled: true
-    message: Conditional message 5
+    message: Conditional message 6
   service1:
     enabled: true
   service2:
