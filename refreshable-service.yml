@@ -6,7 +6,7 @@ spring:
     name: refreshable-service
 
 messages:
-  welcome: Hello, World 2!
+  welcome: Hello, World 3!
 
 management:
   endpoints:
