@@ -13,9 +13,9 @@ conditional:
     enabled: true
     message: Conditional message 4
   service1:
-    enabled: false
+    enabled: true
   service2:
-    enabled: false
+    enabled: true
 
 management:
   endpoints:
