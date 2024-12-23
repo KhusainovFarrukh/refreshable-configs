@@ -11,7 +11,7 @@ messages:
 conditional:
   controller:
     enabled: true
-    message: Conditional message 1
+    message: Conditional message 2
 
 management:
   endpoints:
