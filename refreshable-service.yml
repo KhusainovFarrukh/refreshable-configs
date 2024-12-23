@@ -8,6 +8,11 @@ spring:
 messages:
   welcome: Hello, World 3!
 
+conditional:
+  controller:
+    enabled: true
+    message: Conditional message 1
+
 management:
   endpoints:
     web:
