@@ -12,6 +12,10 @@ conditional:
   controller:
     enabled: true
     message: Conditional message 4
+  service1:
+    enabled: true
+  service2:
+    enabled: false
 
 management:
   endpoints:
